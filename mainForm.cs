@@ -177,10 +177,12 @@ namespace MiniManager
                     Application.Exit();
                 }
 
+                /*
                 string activeItem = lbl.Text;
                 activeItem = "> " + activeItem;
                 lbl.Text = activeItem;
                 lbl.ForeColor = Color.DodgerBlue;
+                */
             }
         }
     }
